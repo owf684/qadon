@@ -11,7 +11,7 @@
 ## Qadon File Format
 
 The format of a qadon is similar to a json. All the data members live inside the curly braces { ... }
-The data members are seperated with spaces. No commas are necessary. The extension of the file doesn't matter either. 
+The data members are seperated with new lines. No commas are necessary. The extension of the file doesn't matter either. 
 ```
 {
  key_1 : value_1
