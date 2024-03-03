@@ -1,0 +1,5 @@
+unix systems only
+
+copy qadon.a into /usr/local/lib
+copy qadon.h into /usr/local/include
+
