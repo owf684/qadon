@@ -115,7 +115,7 @@ class qadon{
                         // assemble value
                         while(char_index < line.size())
                         {
-                            if (line[char_index] != ' ') value += line[char_index];
+                            value += line[char_index];
                             char_index++;
                         }
 
